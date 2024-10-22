@@ -15,12 +15,3 @@ for (let i = 0; i < sentence.length; i++) {
   }
 }
 
-
-
-// const greeting = 'hello there world'.split(' ');
-
-// for (let i = 0; i < greeting.length; i++) {
-//   setTimeout(() => {
-//     console.log(greeting[i]);
-//   }, (1000 * i))
-// }
